@@ -15,4 +15,4 @@
 *   <font color='grey'>Ayudante: </font> Rafael López Martínez
 *   <font color='grey'>Ayudante: </font> Maira Nayeli Luis Vargas
 
-*   Colab : https://colab.research.google.com/drive/1ycAFzrwVASsUSdrT13xdJwXvztLVeHX3?usp=sharing
+Recomendamos revisar la implementación desde Google colab ya que ahí fue desarrollado desde el comienzo: https://colab.research.google.com/drive/1ycAFzrwVASsUSdrT13xdJwXvztLVeHX3?usp=sharing
